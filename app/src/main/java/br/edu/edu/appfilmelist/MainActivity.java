@@ -19,7 +19,7 @@ import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
-   //private static String JSON_URL = "https://api.themoviedb.org/3/movie/popular?api_key=ae993c59e99db0e4fce8f24b080fede0";
+   private static String JSON_URL = "https://api.themoviedb.org/3/movie/popular?api_key=ae993c59e99db0e4fce8f24b080fede0";
     RecyclerView recyclerFilmes;
 
     @Override
